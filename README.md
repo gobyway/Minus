@@ -1,5 +1,5 @@
-# Minus
-A Chrome extension remove unwanted DOM from the website. 
+# minus
+A Chrome Extension remove unwanted DOM from websites. 
 ## ***1*** I'm A Developer...
 #### *1.1* What can I do with Minus? 
 #### *1.2* Which browsers can use Minus?
