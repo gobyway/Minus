@@ -1,6 +1,6 @@
 # minus  
 A Chrome Extension remove unwanted DOM from websites.  
-## ***0*** Roll of every file  
+## ***0⎝*** Roll of every file  
 ```
  minus
    └──manifest.json ---- enterance file of the extension
@@ -11,7 +11,7 @@ A Chrome Extension remove unwanted DOM from websites.
    └──Acn.js        ---- aim at the websites 'cn'  as top-level-domain, such as w3school.cn、tianya.cn、sina.com.cn
    └──Anet.js       ---- aim at the websites 'net' as top-level-domain, such as csdn.net、jb51.net、oschina.net
 ```
-## ***1*** I'm a Developer 
+## ***1⎝*** I'm a Developer 
 #### *1.1* What can I do with minus?  
 ```
 If you wanna add a website in order to enlarge minus, please code as follow four steps:
