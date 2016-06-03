@@ -3,7 +3,7 @@ A Chrome Extension remove unwanted DOM from websites.
 ## ***0*** Every file  
 ```
  minus
-   ├──manifest.json ---- enterance file of the extension
+   └──manifest.json ---- enterance file of the extension
    └──logo.png      ---- the logo will display on chrome's toolbar
    └──0.js          ---- it's jquery.min.js actually! The name "0.js" is just on behalf of less space.
    └──1.js          ---- main js file of the extension, invoke other js scripts such as 0.js、Acom.js、Acn.js、Anet.js
