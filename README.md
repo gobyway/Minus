@@ -3,13 +3,13 @@ A Chrome Extension remove unwanted DOM from websites.
 ## ***0*** Every file  
 ```
  minus
-   |manifest.json ---- enterance file of the extension
-   |logo.png      ---- the logo will display on chrome's toolbar
-   |0.js          ---- it's jquery.min.js actually! The name "0.js" is just on behalf of less space.
-   |1.js          ---- main js file of the extension, invoke other js scripts such as 0.js、Acom.js、Acn.js、Anet.js
-   |Acom.js       ---- aim at the websites 'com' as top-level-domain, such as google.com、facebook.com 
-   |Acn.js        ---- aim at the websites 'cn'  as top-level-domain, such as w3school.cn、tianya.cn、sina.com.cn
-   |Anet.js       ---- aim at the websites 'net' as top-level-domain, such as csdn.net、jb51.net、oschina.net
+   ├──manifest.json ---- enterance file of the extension
+   └──logo.png      ---- the logo will display on chrome's toolbar
+   └──0.js          ---- it's jquery.min.js actually! The name "0.js" is just on behalf of less space.
+   └──1.js          ---- main js file of the extension, invoke other js scripts such as 0.js、Acom.js、Acn.js、Anet.js
+   └──Acom.js       ---- aim at the websites 'com' as top-level-domain, such as google.com、facebook.com 
+   └──Acn.js        ---- aim at the websites 'cn'  as top-level-domain, such as w3school.cn、tianya.cn、sina.com.cn
+   └──Anet.js       ---- aim at the websites 'net' as top-level-domain, such as csdn.net、jb51.net、oschina.net
 ```
 ## ***1*** I'm A Developer...  
 #### *1.1* What can I do with minus?  
