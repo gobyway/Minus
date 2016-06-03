@@ -1,0 +1,17 @@
+{
+	"name": "干小净",
+	"version": "2016.05.17",
+	"description": "根治网站牛皮癣",
+	"icons": {
+        "128": "logo.png"
+    },
+	"content_scripts": [
+		{
+			"matches" : ["<all_urls>"],
+			"js": ["0.js","Acom.js","Acn.js","Anet.js","Aorg.js","1.js"],
+			"run_at": "document_end"
+		}
+	],
+	"permissions": ["tabs","http://*/*","<all_urls>", "activeTab"],
+	"manifest_version": 2
+}
